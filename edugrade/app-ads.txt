@@ -1,0 +1,7 @@
+# app-ads.txt — EduGrade (iOS/Android)
+#
+# LUU Y: file nay chi de tham khao. Crawler cua AdMob KHONG doc duong dan nay.
+# Ban chinh thuc duoc serve tai: https://norevio.github.io/app-ads.txt
+# (repo Norevio/Norevio.github.io)
+
+google.com, pub-6818408078775821, DIRECT, f08c47fec0942fa0
